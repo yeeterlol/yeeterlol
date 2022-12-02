@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeterlol&label=Profile%20views&color=0e75b6&style=flat" alt="yeeterlol" /> </p>
 
-- 🔭 I’m currently working on [Sigma Male Video Bot](https://github.com/yeeterlol/SigmaMaleVideoBot)
+- 🔭 I’m currently working on [StrawAlts 🤫](https://github.com/StrawAlts)
 
 - 🌱 I’m currently learning **Python**
 
