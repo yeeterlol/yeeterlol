@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [github.com/yeeterlol](https://github.com/yeeterlol)
+- 👨‍💻 All of my projects are available [here on GitHub](https://github.com/yeeterlol)
 
 - ⚡ Fun fact **I love silly cats :3**
 
