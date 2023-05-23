@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/yeeterlol)
 
