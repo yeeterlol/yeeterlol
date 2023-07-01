@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm yeeter</h1>
-<h3 align="center">mentally ill autistic programmer :3c</h3>
+<h3 align="center">idk what to say here, i've went insane</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeterlol&label=Profile%20views&color=0e75b6&style=flat" alt="yeeterlol" /> </p>
 
 - 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Router**
 
 - 👨‍💻 All of my projects are available [here on GitHub](https://github.com/yeeterlol)
 
-- ⚡ Fun fact **I love silly cats :3**
+- ⚡ Fun fact **i fucking despise programming but i luv it anyway :3333**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
