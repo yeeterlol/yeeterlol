@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeeterlol" alt="yeeterlol" /></a> </p>
 
-- 🔭 I’m currently working on [shignami](https://github.com/gen2inc/shinigami)
+- 🔭 I’m currently working on [shinigami](https://github.com/gen2inc/shinigami)
 
 - 🌱 I’m currently learning **React Router**
 
