@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, javascript**
 
-- ⚡ Fun fact **i wanna learn reverse enginnering but i need to learn C and C++ :'(**
+- ⚡ Fun fact **did you know that weekly toro station ran on a dell poweredge r410?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
