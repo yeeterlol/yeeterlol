@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [shinigami](https://github.com/gen2inc/shinigami)
 
-- 🌱 I’m currently learning **CS50x, React Router on hold**
+- 🌱 I’m currently learning **nothing, fuck procrastination**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
