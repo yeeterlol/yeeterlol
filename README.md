@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeeterlol" alt="yeeterlol" /></a> </p>
 
+- pfp from <a href="https://twitter.com/lexycat_/status/1691308375081189376">lexycat :3</a>
 - 🔭 I’m currently working on [shinigami](https://github.com/gen2inc/shinigami)
 
 - 🌱 I’m currently learning **nothing, i hate my procrastination**
