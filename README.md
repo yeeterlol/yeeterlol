@@ -8,7 +8,7 @@
 - pfp from <a href="https://twitter.com/lexycat_/status/1691308375081189376">lexycat :3</a>
 - 🔭 I’m currently working on [shinigami](https://github.com/gen2inc/shinigami)
 
-- 🌱 I’m currently learning **nothing, i hate my procrastination**
+- 🌱 I’m currently learning **i cant, i just feel stupid, i just feel demotivated. i can't finish any projects. for my entire github history, i have not finished a project. they are all always unfinished :c**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
