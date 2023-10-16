@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ellie :3</h1>
+<h1 align="center">Hi 👋, I'm yeeter</h1>
 <h3 align="center">gods worst choosen programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeterlol&label=Profile%20views&color=0e75b6&style=flat" alt="yeeterlol" /> </p>
