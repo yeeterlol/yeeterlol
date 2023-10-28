@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yeeter</h1>
+<h1 align="center">Hi 👋, I'm ellie</h1>
 <h3 align="center">gods worst choosen programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeterlol&label=Profile%20views&color=0e75b6&style=flat" alt="yeeterlol" /> </p>
@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeeterlol" alt="yeeterlol" /></a> </p>
 
 - pfp from <a href="https://twitter.com/lexycat_/status/1691308375081189376">lexycat :3</a>
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on grinding leetcode (i need to get back into programming and not writing shitty leetcode problems, it wont get u a job ellie)
 
-- 🌱 I’m currently learning **i cant, i just feel stupid, i just feel demotivated. i can't finish any projects. for my entire github history, i have not finished a project. they are all always unfinished :c**
+- 🌱 I’m currently learning **nothing**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
