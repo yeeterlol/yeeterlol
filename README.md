@@ -8,7 +8,7 @@
 - pfp from <a href="https://twitter.com/lexycat_/status/1691308375081189376">lexycat :3</a>
 - 🔭 I’m currently working on grinding leetcode (i need to get back into programming and not writing shitty leetcode problems, it wont get u a job ellie)
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **algos (linked lists, two pointers, etc)**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
