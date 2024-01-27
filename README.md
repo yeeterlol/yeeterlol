@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeeterlol" alt="yeeterlol" /></a> </p>
 
-- pfp from <a href="https://twitter.com/lexycat_/status/1691308375081189376">lexycat :3</a>
-- 🔭 I’m currently working on grinding leetcode (i need to get back into programming and not writing shitty leetcode problems, it wont get u a job ellie)
+- 🔭 I’m currently working on Reversing Doko Demo Issho (still mad at you BeXide for making 10 internal file formats)
 
-- 🌱 I’m currently learning **algos (linked lists, two pointers, etc)**
+- 🌱 I’m currently learning **nothing much lol**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
