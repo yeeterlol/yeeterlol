@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeeterlol" alt="yeeterlol" /></a> </p>
 
-- 🔭 I’m currently working on Reversing Doko Demo Issho (still mad at you BeXide for making 10 internal file formats)
+- 🔭 I’m currently working on [Archive Station](https://github.com/archive-station)
 
 - 🌱 I’m currently learning **nothing much lol**
 
