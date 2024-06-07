@@ -1,12 +1,12 @@
 <h1 align="center">welcome to my github profile</h1>
 
-- 🔭 I’m currently working on [Archive Station](https://github.com/archive-station)
+- 🔭 I’m currently working on writing random projects and home servers =3
 
-- 🌱 I’m currently learning **nothing much lol**
+- 🌱 I’m currently learning **more linux cool shit lolz**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, doko demo issyo**
 
 - ⚡ Fun fact **did you know that weekly toro station ran on a dell poweredge r410?**
 
