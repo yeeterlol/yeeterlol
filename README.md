@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeeterlol&show_icons=true&theme=dracula&locale=en" alt="yeeterlol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeeterlol&theme=dark" alt="yeeterlol" /></p>
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/yeeterlol/yeeterlol/main/GPfhXlNXUAAAyed.png');]{x0000}$}
