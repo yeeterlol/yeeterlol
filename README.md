@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm yeeter</h1>
-<h3 align="center">gods worst choosen programmer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeterlol&label=Profile%20views&color=0e75b6&style=flat" alt="yeeterlol" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeeterlol" alt="yeeterlol" /></a> </p>
+<h1 align="center">welcome to my github profile</h1>
 
 - 🔭 I’m currently working on [Archive Station](https://github.com/archive-station)
 
