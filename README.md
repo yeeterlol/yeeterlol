@@ -23,7 +23,7 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 15dvi; top: 15dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 200px; width: 200px; background-image: url('https://github.com/yeeterlol/yeeterlol/blob/main/suzuki.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 15dvi; top: 15dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 200px; width: 200px; background-image: url('https://github.com/yeeterlol/yeeterlol/blob/main/Dokodemoissyo-character-kuro-03-ja-14mar22.png?raw=true');]{x0000}$}
 ```
 
 ```math
