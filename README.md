@@ -1,8 +1,8 @@
 <h1 align="center">welcome to my github profile</h1>
 
-- 🔭 I’m currently working on writing random projects and home servers =3
+- 🔭 I’m currently working on WebFishing =3
 
-- 🌱 I’m currently learning **more linux cool shit lolz**
+- 🌱 I’m currently learning **gdweave tokenizing and writing webfishing mods**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
