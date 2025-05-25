@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on nothing much
 
-- 🌱 I’m currently learning **reverse engineering**
+- 🌱 I’m currently learning **nothing tbh**
 
 - 👨‍💻 All of my projects are available at [github.com/yeeterlol](github.com/yeeterlol)
 
